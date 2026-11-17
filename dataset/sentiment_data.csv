@@ -1,0 +1,31 @@
+text,sentiment
+I love this product,Positive
+This is an amazing experience,Positive
+The service is excellent,Positive
+I am very happy,Positive
+This product is wonderful,Positive
+I really like this application,Positive
+The quality is fantastic,Positive
+Very good experience,Positive
+I enjoyed this movie,Positive
+The food tastes delicious,Positive
+I hate this product,Negative
+This is a terrible experience,Negative
+The service is very poor,Negative
+I am very disappointed,Negative
+This product is useless,Negative
+I don't like this application,Negative
+The quality is horrible,Negative
+Very bad experience,Negative
+I disliked this movie,Negative
+The food tastes awful,Negative
+The product is okay,Neutral
+The service is average,Neutral
+It is neither good nor bad,Neutral
+The experience was normal,Neutral
+The product is acceptable,Neutral
+I have no opinion,Neutral
+The movie was average,Neutral
+The food is okay,Neutral
+Nothing special about this product,Neutral
+The service was ordinary,Neutral
